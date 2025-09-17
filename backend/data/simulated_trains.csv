@@ -1,0 +1,4 @@
+id,type,scheduled_arrival,est_arrival,priority,dwell
+T1,Express,10:00,10.02,1,2
+T2,Freight,10:05,10.01,3,6
+T3,Passenger,10:03,10.05,2,3

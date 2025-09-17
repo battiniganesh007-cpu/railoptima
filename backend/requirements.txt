@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pandas
+pulp
+requests
+python-multipart
